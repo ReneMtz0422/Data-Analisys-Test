@@ -74,6 +74,11 @@ Once we run the code our excel will look like this
   ![imagen](https://github.com/ReneMtz0422/Data-Analysis-Test/assets/158523436/8a670973-0461-4b0c-97d4-58811fe3c1e4)
 
 
+Next step is transform the data
+
+4.- [Transform](Transform Data.md)
+
+
 
     
 
