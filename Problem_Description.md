@@ -12,3 +12,7 @@ We have a list of the principal issues about this like :
 -To know how much we are charging on every material we need to work together with the estimating department
 
 -We need a Database (In this case we use excel what i will explain it later how we work on it) 
+
+
+Next Step is the Extraction.-
+-[Extraction](Extract.md)
