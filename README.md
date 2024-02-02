@@ -11,4 +11,10 @@ In this repository i use some data from my actual job (respecting privacy polici
 
 3.- [Extraction](Extract.md)
 
+4.- [Transform Data](Transform Data.md)
+
+5.- [Load Data](Load Data.md)
+
+
+
 
