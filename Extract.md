@@ -71,7 +71,8 @@ Once we run the code our excel will look like this
 
 3.- Excel Dataset Whitout empty columns
 
-  ![imagen](https://github.com/ReneMtz0422/Data-Analysis-Test/assets/158523436/4a116f5a-b695-4e67-b1c6-91dae379d9b0)
+  ![imagen](https://github.com/ReneMtz0422/Data-Analysis-Test/assets/158523436/8a670973-0461-4b0c-97d4-58811fe3c1e4)
+
 
 
     
