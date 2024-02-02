@@ -10,6 +10,8 @@ In this repository i use some data from my actual job (respecting privacy polici
 2.- [Problem Description](Problem_Description.md)
 
 3.- [Extraction](Extract.md)
-3.1.- ![Illustrative example](Illustrative example PO.png)
+3.1.- ![Example of a PO]("Illustrative example PO.png")
 3.2.- ![Excel Database Example](Excel Database.png)
+
+![imagen](https://github.com/ReneMtz0422/Data-Analisys-Test/assets/158523436/07dd749f-b482-420b-a5c2-806246ff9b1a)
 
