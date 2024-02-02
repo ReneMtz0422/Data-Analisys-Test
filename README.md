@@ -10,7 +10,6 @@ In this repository i use some data from my actual job (respecting privacy polici
 2.- [Problem Description](Problem_Description.md)
 
 3.- [Extraction](Extract.md)
-
-    3.1.-[Illustrative example](Illustrative example PO.png)
-    3.2[Excel Database Example](Excel Database.png)
+3.1.- [Illustrative example](Illustrative example PO.png)
+3.2.- [Excel Database Example](Excel Database.png)
 
