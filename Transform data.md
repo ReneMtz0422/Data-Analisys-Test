@@ -11,7 +11,10 @@ I assigned to the columns their data format on the home tab selecting the column
 
 
 For the columns Servicio, Orden de Compra, Unidad, Descripción, Especialidad y Grupo i used the Text Format.
+
 For the column Cant. i use the Number Format.
+
 For the column Fecha de entrega i use short date Format.
+
 For the columns M.N. Prec, M.N.Iva, M.N.Subtotal, M.N.Total i use accounting Format.
 
