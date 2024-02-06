@@ -72,7 +72,7 @@ Now that the dataset are ready i can continue whit the Load procces
 
 Next step is Loading
 
-[Loading Procces](Load data)
+[Loading Procces](Load_data.md)
 
 
 
