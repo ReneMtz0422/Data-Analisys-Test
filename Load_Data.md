@@ -125,6 +125,23 @@ Result:
 
 ![imagen](https://github.com/ReneMtz0422/Data-Analysis-Test/assets/158523436/6f32a251-109d-433f-82e3-39dc46b4cbd8)
 
+Now Every column and table is ready i need to create the relations between the tables for this first i will go to the "model view" tab
+
+And this is what you should see
+
+!![Modelo](https://github.com/ReneMtz0422/Data-Analysis-Test/assets/158523436/5883146f-2bca-467d-9722-6497518eeade)
+
+Now to create the relationships we have to drag the "date" column from the calendar table to the OC table with the "F.Entrega" column and you will see the following tab, it will recomment a tyoe of relationship and you will have to judge if it is the necessary relationship or you will have to change it, in this case it is the relationship we need.
+
+Table that you will see:
+
+![imagen](https://github.com/ReneMtz0422/Data-Analysis-Test/assets/158523436/bb49702d-834b-480b-a177-c08fd2039ed9)
+
+And we create the next relation between the table "Comparacion" and the "OC" table whit the "Descripcion" Column on both tables
+
+The final result will be this relations
+
+![imagen](https://github.com/ReneMtz0422/Data-Analysis-Test/assets/158523436/24e17986-fe1e-4954-b5ef-9b760208944f)
 
 Now the final step is work on the Visualization for the storytelling and final results of the project
 
