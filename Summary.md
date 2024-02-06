@@ -15,6 +15,6 @@ In this repository i use some data from my actual job (respecting privacy polici
 
 5.- [Load Data](Load_data.md)
 
-
+6.- [Visualization](Visualice_data.md)
 
 
