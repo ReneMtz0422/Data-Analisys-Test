@@ -40,7 +40,12 @@ And the result will we the next
 ![imagen](https://github.com/ReneMtz0422/Data-Analysis-Test/assets/158523436/b8461112-25b5-4d00-94ef-7ae30427b5d8)
 
 Now I separate according to the needs of the project in this case i only need year, month, month description (First 3 letters), day and day description (First 3 Letters).
-I use the next codes to do it.
+
+For this we use the button New Column on the Home tab 
+
+![nueva columna](https://github.com/ReneMtz0422/Data-Analysis-Test/assets/158523436/c166c498-9f51-4907-be00-03fae9bbe524)
+
+And then i use the next codes to do it.
 
 For Year : 
 
@@ -87,5 +92,47 @@ For Day Description :
 Result:
 
 ![imagen](https://github.com/ReneMtz0422/Data-Analysis-Test/assets/158523436/08b0d3d8-e75a-4ede-bb7c-a6320f896286)
+
+Once i finish the "calendar" table i move into the "Comparacion" table to start working on it.
+I will create 3 new columns "Diferencia" that will tell me the diference between what was been spent and what was been charged, "Margen" which will tell me what percentage represents this difference between what was collected and what was spent, "RGB" This  column will represent a control within the range in which green will be taken into account as within the range, yellow with caution and red as already over the range.
+
+Now For Diferencia we use the next code:
+
+      Diferencia = Comparacion[Gasto Total Pesos] - Comparacion[Cobrado Total]    
+
+Result:
+
+![imagen](https://github.com/ReneMtz0422/Data-Analysis-Test/assets/158523436/900b35a4-6d90-40e0-85c1-a84b065701a0)
+
+For Margen:
+
+      Margen = Comparacion[Cobrado Total] / Comparacion[Gasto Total Pesos]
+
+In the case of this column we will use the percentage function that is in the column tool tab so that the result of the code is in percentage
+
+![Porcentaje](https://github.com/ReneMtz0422/Data-Analysis-Test/assets/158523436/9b2ec05e-c294-40bc-9ff2-bbcbac6100e3)
+
+Result:
+
+![imagen](https://github.com/ReneMtz0422/Data-Analysis-Test/assets/158523436/5a8ec231-5ef4-4f5d-8fdf-42ffb3733d84)
+
+For RGB:
+
+      RGB = IF(Comparacion[Margen] >= .70, "Red",
+        IF(Comparacion[Margen] >= .60 && Comparacion[Margen] <= .69, "Yellow", "Green"))
+
+Result:
+
+![imagen](https://github.com/ReneMtz0422/Data-Analysis-Test/assets/158523436/6f32a251-109d-433f-82e3-39dc46b4cbd8)
+
+
+Now the final step is work on the Visualization for the storytelling and final results of the project
+
+[Visualization](Visualization.md)
+
+
+
+
+
 
 
